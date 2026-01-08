@@ -1,5 +1,6 @@
 ata0=hd0.img
 floppy0=fdd0.img
 wifi-ssid=
-wifi-pass=B
+wifi-pass=
 ntp-ip=yes
+
